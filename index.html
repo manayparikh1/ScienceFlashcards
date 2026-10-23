@@ -174,11 +174,19 @@
         }
 
         h1,
+        /*centers middle text*/
         .hint {
             text-align: center;
         }
 
-        /*centers middle text*/
+        .card {
+            cursor: pointer;
+        }
+
+        .card input {
+            display: none;
+        }
+
 
         .cards {
             display: grid;
@@ -186,4 +194,36 @@
             max-width: 990px;
             margin: 0 auto;
         }
+
+        .front,
+        .back {
+            height: 170px;
+            padding: 16px;
+            border: 1px solid #f1ce7e;
+            background: #fec4c4;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .front {
+            display: flex;
+
+        }
+
+        .back {
+            display: none;
+            background: #f8e6ba;
+        }
+
+        input:checked+.inner .front {
+            display: none;
+        }
+
+        input:checked+.inner .back {
+            display: flex;
+        }
     </style>
+</body>
+
+</html>

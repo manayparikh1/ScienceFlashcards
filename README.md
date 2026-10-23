@@ -8,6 +8,7 @@ This is Scientifico and it is a simple science flashcard website with built in f
 - Chem questions
 - Simple to use
 - Flipabble 
+- Colour scheme is green and pink with black text and good font style (comic cursive)
 
 ## Future things to add
 

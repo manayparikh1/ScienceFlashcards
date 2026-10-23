@@ -2,6 +2,9 @@
 
 This is Scientifico and it is a simple science flashcard website with built in flashcards ranging from chemistry to biology. The questions are very simple too, so that is amazing and very user-friendly. I created this to help me study for science because this year I gotta lock in so this project helped at the same time too.
 
+![sci.png](sci.png)
+
+
 ## Features
 
 - Biology questions

@@ -16,3 +16,5 @@ I want to make the flashcards more on the user side, so that the user can input 
 ## Challenges I had
 
 I did not have much challenges except the HTML, which I just added one thing extra for everything by accident and it did not really work, so I had to fix it. And 90 percent or more of these questions were from the back of my brain so I had to cross them and plus I needed 4-5 more questions so I got them from https://www.sciencefocus.com/science/fun-facts, which helped me significantly. 
+
+# 2026 | Scientifico | MIT LICENSE
